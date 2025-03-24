@@ -1,6 +1,9 @@
 
 #  30-Days-Of-CSharp
 
+ ![30daysOfCsharp](./Images/30daysOfCsharpBanner.png)
+
+
 Welcome to the 30-Days-Of-CSharp challenge! This guide is designed to help you learn C# and .NET from scratch. Each day, you will cover a new topic, building on the knowledge from the previous days. By the end of this challenge, you will have a solid understanding of C# and be able to build your own applications.
 
 |# Day | Topics                                                    |
@@ -44,7 +47,6 @@ Welcome to the 30-Days-Of-CSharp challenge! This guide is designed to help you l
 </div>
 
 
- ![30daysOfCsharp](./Images/30daysOfCsharpBanner.png)
 
 # Day 1 
 
